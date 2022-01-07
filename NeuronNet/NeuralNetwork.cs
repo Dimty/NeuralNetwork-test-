@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace NeuronNet
+namespace NeuralNet
 {
-	public class NeuronNetwork
+	public class NeuralNetwork
 	{
-		public NeuronNetwork()
+		public NeuralNetwork()
 		{
 
 		}
